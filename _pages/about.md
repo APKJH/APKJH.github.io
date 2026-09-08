@@ -1,3 +1,11 @@
+
+---
+title: "About"
+permalink: /about/
+excerpt: "About me"
+layout: about
+---
+
 我是fzu大学计算机学院的大三本科生。我的研究兴趣包括人工智能、软件工程与计算机网络。
 
 
