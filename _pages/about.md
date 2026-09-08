@@ -1,11 +1,13 @@
 ---
-permalink: /
-title: "个人主页"
+permalink: /about/
+title: "关于我"
 author_profile: true
+---
 redirect_from:
   - /about/
   - /about.html
 ---
+
 
 我是wwh，目前就读于fzu大数据，是一名大三学生。
 
