@@ -1,14 +1,13 @@
 ---
-title: "About"
-permalink: /about/
-excerpt: "About me"
-layout: about
+permalink: /
+title: "个人主页"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
+我是wwh，目前就读于fzu大数据，是一名大三学生。
 
-我是fzu大学计算机学院的大三本科生。我的研究兴趣包括人工智能、软件工程与计算机网络。
+我目前主要学习计算机相关专业知识，对W软件开发、游戏开发比较感兴趣。
 
-
-我的简历：[个人简历](../assets/Curriculum_Vitae.pdf)
-
-[邮箱](3318510960@qq.com) / [Github](https://github.com/APKJH) 
